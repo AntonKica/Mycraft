@@ -1,0 +1,1 @@
+g++ -Wall -Werror -o Main Main.cpp -lX11 -L/usr/X11/lib -I/usr/X11/include 
